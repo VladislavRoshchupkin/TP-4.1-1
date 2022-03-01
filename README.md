@@ -12,4 +12,4 @@
 ## Информация о теме
 
 ## Сервисы для работы
-[Trello]_( https://trello.com/b/xU2L6v14/time-tracking )
+[Trello]_ ( https://trello.com/b/xU2L6v14/time-tracking  )
