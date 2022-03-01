@@ -6,10 +6,10 @@
 
 • Рощупкин Владислав - roshchupkin.vladislav@mail.ru, группа 4.1 <br>
 • Яценко Ольга - olya-ya01@mail.ru, группа 4.1 <br>
-• Злочевский Арсений, группа 4.1 
+• Злочевский Арсений, группа 4.1 <br>
 • Герасимов Максим, группа 4.1
 
 ## Информация о теме
 
 ## Сервисы для работы
-[Trello] ( https://trello.com/b/xU2L6v14/time-tracking )
+[Trello]_( https://trello.com/b/xU2L6v14/time-tracking )
