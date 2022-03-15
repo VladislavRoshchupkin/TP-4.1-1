@@ -14,4 +14,4 @@
 
 ## Сервисы для работы 
 [Trello](https://trello.com/b/xU2L6v14/timetrace) <br>
-[Mind Map](https://miro.com/app/board/uXjVOFsa-dQ=/?invite_link_id=103508111457)
+[Miro](https://miro.com/app/board/uXjVOFsa-dQ=/?invite_link_id=103508111457)
