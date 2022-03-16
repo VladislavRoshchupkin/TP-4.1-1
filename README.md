@@ -15,4 +15,6 @@
 ## Сервисы для работы 
 [Trello](https://trello.com/b/xU2L6v14/timetrace) <br>
 [Miro](https://miro.com/app/board/uXjVOFsa-dQ=/?invite_link_id=103508111457) <br>
+
+## Документация
 [TZ](https://docs.google.com/document/d/1cMWmo6NgJ_CBB_ZhorpnlNdH_4CCsS1E3km36Z9-4Jo/edit?usp=sharing)
