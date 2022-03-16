@@ -18,3 +18,4 @@
 
 ## Документация
 [Техническое задание](https://docs.google.com/document/d/1cMWmo6NgJ_CBB_ZhorpnlNdH_4CCsS1E3km36Z9-4Jo/edit?usp=sharing)
+[Курсовой проект](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Курсовой%20проект.pdf)
