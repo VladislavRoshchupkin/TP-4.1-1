@@ -18,7 +18,7 @@
 
 ## Документация
 [Техническое задание](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Техническое%20задание.pdf) <br>
-[Курсовой проект](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Курсовой%20проект.docx) <br>
+[Курсовой проект](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Курсовой%20проект.pdf) <br>
 
 ## Репозиторий с кодом
 [Проект](https://github.com/VladislavRoshchupkin/TimeTrace) <br>
