@@ -29,8 +29,8 @@
 [Демо-видео презентации](https://www.youtube.com/watch?v=M7bKIN9Cv3o) <br>
 [Видео технической части (ч.1)](https://www.youtube.com/watch?v=FpKNRwQdHnY)<br>
 [Видео технической части (ч.2) + обзор проекта](https://www.youtube.com/watch?v=wuLi7SL4r-Q) <dr>
+[Презентация](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Презентация.pdf) 
 	
-
 ## Репозиторий с кодом
 [Проект](https://github.com/VladislavRoshchupkin/TimeTrace) <br>
 [API документация](https://github.com/VladislavRoshchupkin/TimeTrace/blob/master/apiDoc.json) <br>
