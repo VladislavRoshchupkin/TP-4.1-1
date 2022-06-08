@@ -26,7 +26,7 @@
 [Курсовой проект](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Курсовой%20проект.pdf) <br>
 [Метрика](https://metrika.yandex.ru/dashboard?group=day&period=week&id=89098771)
 <br>
-[Презентация](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Презентация.pdf) 
+[Презентация](https://github.com/VladislavRoshchupkin/TP-4.1-4/blob/main/Презентация.pdf) <br>
 [Демо-видео презентации](https://www.youtube.com/watch?v=M7bKIN9Cv3o) <br>
 [Видео технической части (ч.1)](https://www.youtube.com/watch?v=FpKNRwQdHnY)<br>
 [Видео технической части (ч.2) + обзор проекта](https://www.youtube.com/watch?v=wuLi7SL4r-Q) <dr>
